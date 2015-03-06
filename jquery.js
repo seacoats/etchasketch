@@ -1,3 +1,7 @@
 $(document).ready(function(){
-	$("<div></div>").appendTo("div#wrapper");
-})
+    $("<div class='grid'></div>").appendTo("div#wrapper");
+    $("<div class='grid'></div>").appendTo("div#wrapper");
+    $("<div class='grid'></div>").appendTo("div#wrapper");
+    $("<div class='grid'></div>").appendTo("div#wrapper");
+
+});
