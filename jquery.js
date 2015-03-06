@@ -1,3 +1,3 @@
 $(document).ready(function(){
-	$("<div></div>").appendTo("div#main");
+	$("<div></div>").appendTo("div#wrapper");
 })
